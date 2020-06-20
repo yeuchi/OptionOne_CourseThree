@@ -39,10 +39,10 @@ You will be asked to provide feedback to your peers in the following areas:
 #### Setting -> OptionOne
 
 From Mike Spears' lesson, I added a Bundle Setting file to store UserDefaults (Kittens, Pugs, Pizza). \
-<img width="880" alt="settings" src="https://user-images.githubusercontent.com/1282659/85211930-73657180-b313-11ea-8bfc-1b6fd1745b31.png">
+<img width="500" alt="settings" src="https://user-images.githubusercontent.com/1282659/85211930-73657180-b313-11ea-8bfc-1b6fd1745b31.png">
 
 Simulation results are functional as follows. \
-<img width="220" alt="selection" src="https://user-images.githubusercontent.com/1282659/85211931-74969e80-b313-11ea-9b64-930eb6db8123.png"> <img width="220" alt="option1" src="https://user-images.githubusercontent.com/1282659/85211933-76f8f880-b313-11ea-9474-05b86c81231c.png"> <img width="220" alt="Screen Shot 2020-06-20 at 4 15 02 PM" src="https://user-images.githubusercontent.com/1282659/85211934-78c2bc00-b313-11ea-8856-3af43293a002.png">
+<img width="220" alt="option1" src="https://user-images.githubusercontent.com/1282659/85211933-76f8f880-b313-11ea-9474-05b86c81231c.png"> <img width="220" alt="selection" src="https://user-images.githubusercontent.com/1282659/85211931-74969e80-b313-11ea-9b64-930eb6db8123.png"> <img width="220" alt="selection" src="https://user-images.githubusercontent.com/1282659/85212583-da862480-b319-11ea-8a6a-828902bc61ae.png">
 
 #### New File
 
