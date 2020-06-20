@@ -36,7 +36,7 @@ You will be asked to provide feedback to your peers in the following areas:
 
 ### Implementation 
 
-#### Setting -> OptionOne
+#### Data Persistence : Setting -> OptionOne
 
 From Mike Spears' lesson, I added a Bundle Setting file to store UserDefaults (Kittens, Pugs, Pizza). \
 <img width="500" alt="settings" src="https://user-images.githubusercontent.com/1282659/85211930-73657180-b313-11ea-8bfc-1b6fd1745b31.png">
@@ -44,7 +44,7 @@ From Mike Spears' lesson, I added a Bundle Setting file to store UserDefaults (K
 Simulation results are functional as follows. \
 <img width="220" alt="option1" src="https://user-images.githubusercontent.com/1282659/85211933-76f8f880-b313-11ea-9474-05b86c81231c.png"> <img width="220" alt="searchTag" src="https://user-images.githubusercontent.com/1282659/85212606-16b98500-b31a-11ea-9b78-645103a37b35.png"> <img width="220" alt="selection" src="https://user-images.githubusercontent.com/1282659/85212583-da862480-b319-11ea-8a6a-828902bc61ae.png">
 
-#### New File
+#### Network Request : Button -> New File
 
 Instead of loading image from camera or album, we can load from Flickr's selections. \
 <img width="220" alt="flickr" src="https://user-images.githubusercontent.com/1282659/85212011-259d3900-b314-11ea-81a9-7ab8a1a57d6e.png"> <img width="220" alt="loaded" src="https://user-images.githubusercontent.com/1282659/85212013-29c95680-b314-11ea-9adf-b4a9601c9906.png">
@@ -60,6 +60,18 @@ Per Jack Wu's instruction, below illustrates zoom by double tap, mouse-drag-pan 
 Below demonstrates execution of a sharpening filter.
 <img width="220" alt="filter_list" src="https://user-images.githubusercontent.com/1282659/85212682-c55dc580-b31a-11ea-813a-21add3be6270.png"> <img width="220" alt="sharpen" src="https://user-images.githubusercontent.com/1282659/85212683-c68ef280-b31a-11ea-82ce-b98a7e434873.png">
 
+# IDE
+XCode 11.1 require considerable changes on constraints for scrollview panning and zoom to work properly.
+Keeping it simple, I use XCode 10.1 Swift 4.2 to implement these features.  It will still build and execute in XCode 11.1 fine.  Detail articles are available in my lesson repository <sup>[1]</sup>
+
+# Simulator
+All testings were performed with an iPhone 8 (16B91) portrait mode.
+Above screenshots were produced on a MacBookPro OS Catalina.
+
+# References 
+
+1. Course #3 Swift Design and Development exercise, re-implemented by Chi T. Yeung, June 20, 2020
+https://github.com/yeuchi/SwiftDesignDev
 
 
 
