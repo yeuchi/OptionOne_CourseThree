@@ -10,7 +10,7 @@ Course 3 : App Design and Development for iOS with Professor Parham Aarabi.
 
 https://www.coursera.org/learn/ios-app-design-development
 
-Course Forum
+Course Forum \
 https://www.coursera.org/learn/ios-app-design-development/discussions
 
 ### Option 1: iPhone App
