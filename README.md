@@ -52,7 +52,13 @@ Instead of loading image from camera or album, we can load from Flickr's selecti
 #### ScrollView Pan & Zoom & double-tap
 
 Per Jack Wu's instruction, below illustrates zoom by double tap, mouse-drag-pan and option-key-mouse-move-zoom. \
-<img width="220" alt="doubleTap" src="https://user-images.githubusercontent.com/1282659/85212023-42397100-b314-11ea-9356-30db58f68064.png"> <img width="220" alt="pan" src="https://user-images.githubusercontent.com/1282659/85212027-46658e80-b314-11ea-88b8-3069396609a0.png"> <img width="220" alt="option_mouse" src="https://user-images.githubusercontent.com/1282659/85212028-4796bb80-b314-11ea-9422-9b01af995b1f.png">
+<img width="220" alt="doubleTap" src="https://user-images.githubusercontent.com/1282659/85212023-42397100-b314-11ea-9356-30db58f68064.png"> <img width="220" alt="pan" src="https://user-images.githubusercontent.com/1282659/85212027-46658e80-b314-11ea-88b8-3069396609a0.png"> <img width="220" alt="option_mouse" src="https://user-images.githubusercontent.com/1282659/85212028-4796bb80-b314-11ea-9422-9b01af995b1f.png"> <img width="220" alt="pan2" src="https://user-images.githubusercontent.com/1282659/85212692-e6261b00-b31a-11ea-86d3-e0b3c6f07fb8.png">
+
+#### Filter - Image Processing - Spatial Convolution
+
+!!! Please pardon the 'SLOW' processing time when image is LARGE !!!
+Below demonstrates execution of a sharpening filter.
+<img width="220" alt="filter_list" src="https://user-images.githubusercontent.com/1282659/85212682-c55dc580-b31a-11ea-813a-21add3be6270.png"> <img width="220" alt="sharpen" src="https://user-images.githubusercontent.com/1282659/85212683-c68ef280-b31a-11ea-82ce-b98a7e434873.png">
 
 
 
