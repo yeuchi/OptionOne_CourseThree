@@ -38,20 +38,20 @@ You will be asked to provide feedback to your peers in the following areas:
 
 #### Setting -> OptionOne
 
-From Mike Spears' lesson, I added a Bundle Setting file to store UserDefaults (Kittens, Pugs, Pizza).
+From Mike Spears' lesson, I added a Bundle Setting file to store UserDefaults (Kittens, Pugs, Pizza). \
 <img width="880" alt="settings" src="https://user-images.githubusercontent.com/1282659/85211930-73657180-b313-11ea-8bfc-1b6fd1745b31.png">
 
-Simulation results are functional as follows.
+Simulation results are functional as follows. \
 <img width="220" alt="selection" src="https://user-images.githubusercontent.com/1282659/85211931-74969e80-b313-11ea-9b64-930eb6db8123.png"> <img width="220" alt="option1" src="https://user-images.githubusercontent.com/1282659/85211933-76f8f880-b313-11ea-9474-05b86c81231c.png"> <img width="220" alt="Screen Shot 2020-06-20 at 4 15 02 PM" src="https://user-images.githubusercontent.com/1282659/85211934-78c2bc00-b313-11ea-8856-3af43293a002.png">
 
 #### New File
 
-Instead of loading image from camera or album, we can load from Flickr's selections.
+Instead of loading image from camera or album, we can load from Flickr's selections. \
 <img width="220" alt="flickr" src="https://user-images.githubusercontent.com/1282659/85212011-259d3900-b314-11ea-81a9-7ab8a1a57d6e.png"> <img width="220" alt="loaded" src="https://user-images.githubusercontent.com/1282659/85212013-29c95680-b314-11ea-9adf-b4a9601c9906.png">
 
 #### ScrollView Pan & Zoom & double-tap
 
-Per Jack Wu's instruction, below illustrates zoom by double tap, mouse-drag-pan and option-key-mouse-move-zoom.
+Per Jack Wu's instruction, below illustrates zoom by double tap, mouse-drag-pan and option-key-mouse-move-zoom. \
 <img width="220" alt="doubleTap" src="https://user-images.githubusercontent.com/1282659/85212023-42397100-b314-11ea-9356-30db58f68064.png"> <img width="220" alt="pan" src="https://user-images.githubusercontent.com/1282659/85212027-46658e80-b314-11ea-88b8-3069396609a0.png"> <img width="220" alt="option_mouse" src="https://user-images.githubusercontent.com/1282659/85212028-4796bb80-b314-11ea-9422-9b01af995b1f.png">
 
 
