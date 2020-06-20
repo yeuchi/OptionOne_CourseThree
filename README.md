@@ -1,7 +1,7 @@
 # OptionOne_CourseThree
 Course #3 Swift Design Development : Option #1
 
-For all the lesson projects in Course #3, see below repository.
+For all the lesson projects in Course #3, see repository: \
 https://github.com/yeuchi/SwiftDesignDev
 
 ## Course
