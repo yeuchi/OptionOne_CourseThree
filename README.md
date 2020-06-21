@@ -57,7 +57,7 @@ Per Jack Wu's instruction, below illustrates zoom by double tap, mouse-drag-pan 
 
 #### Filter - Image Processing - Spatial Convolution
 
-!!! Please pardon the 'SLOW' processing time when image is LARGE !!!
+!!! Please pardon the 'SLOW' processing time when image is LARGE !!! \
 Below demonstrates execution of a sharpening filter.
 <img width="220" alt="filter_list" src="https://user-images.githubusercontent.com/1282659/85212682-c55dc580-b31a-11ea-813a-21add3be6270.png"> <img width="220" alt="sharpen" src="https://user-images.githubusercontent.com/1282659/85212683-c68ef280-b31a-11ea-82ce-b98a7e434873.png">
 
