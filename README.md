@@ -54,9 +54,9 @@ Below demonstrates execution of a sharpening filter. \
 <img width="220" alt="filter_list" src="https://user-images.githubusercontent.com/1282659/85212682-c55dc580-b31a-11ea-813a-21add3be6270.png"> <img width="220" alt="sharpen" src="https://user-images.githubusercontent.com/1282659/85212683-c68ef280-b31a-11ea-82ce-b98a7e434873.png">
 
 # IDE
-I use XCode 10.1 Swift 4.2 to implement these features. \
-XCode 11.1 require considerable changes on constraints for scrollview panning and zoom to work properly. \
-It will still build and execute in XCode 11.1 fine.  \
+I used XCode 10.1 Swift 4.2 to create the project for scrollview features. \
+XCode 11.1 project has additional constraints on scrollview.  Pan & Zoom are more difficult. \
+This project will still build and execute in XCode 11.1 OK.  \
 Detail articles are available in my lesson repository <sup>[1]</sup>
 
 # Simulator
