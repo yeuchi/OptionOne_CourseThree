@@ -20,8 +20,6 @@ https://www.coursera.org/learn/ios-app-design-development/discussions
 - Your app must have data that persists between app sessions and/or networking functionality.
 
 ### Rubric
-
-#### Review criterialess 
 To evaluate your peers in the best way possible, you should briefly review the work of your peers using the buttons near the top of this screen before giving scores and feedback on any of them. This will help open your eyes to what others have done.
 You will be asked to provide feedback to your peers in the following areas:
 - Does the app fulfill the three requirements for each option? 2pts per requirement.
