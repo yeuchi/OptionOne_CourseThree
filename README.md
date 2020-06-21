@@ -21,12 +21,6 @@ https://www.coursera.org/learn/ios-app-design-development/discussions
 
 ### Rubric
 
-#### SUBMISSION: 
-Make sure all your project files are in a single folder with the main Xcode project file (with the .xcodeproj extension) at the top level. Zip the folder first using the Mac’s compression command. (In Finder, right-click the folder and select “Compress”.) Upload this zipped archive for review. Your peer reviewers will download your zipped file and run the project in their own Xcode.
-
-#### LANGUAGE: 
-Submissions must be in English
-
 #### Review criterialess 
 To evaluate your peers in the best way possible, you should briefly review the work of your peers using the buttons near the top of this screen before giving scores and feedback on any of them. This will help open your eyes to what others have done.
 You will be asked to provide feedback to your peers in the following areas:
