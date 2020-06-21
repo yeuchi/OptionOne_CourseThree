@@ -54,16 +54,18 @@ Below demonstrates execution of a sharpening filter. \
 <img width="220" alt="filter_list" src="https://user-images.githubusercontent.com/1282659/85212682-c55dc580-b31a-11ea-813a-21add3be6270.png"> <img width="220" alt="sharpen" src="https://user-images.githubusercontent.com/1282659/85212683-c68ef280-b31a-11ea-82ce-b98a7e434873.png">
 
 # IDE
-XCode 11.1 require considerable changes on constraints for scrollview panning and zoom to work properly.
-Keeping it simple, I use XCode 10.1 Swift 4.2 to implement these features.  It will still build and execute in XCode 11.1 fine.  Detail articles are available in my lesson repository <sup>[1]</sup>
+I use XCode 10.1 Swift 4.2 to implement these features. \
+XCode 11.1 require considerable changes on constraints for scrollview panning and zoom to work properly. \
+It will still build and execute in XCode 11.1 fine.  \
+Detail articles are available in my lesson repository <sup>[1]</sup>
 
 # Simulator
-All testings were performed with an iPhone 8 (16B91) portrait mode.
+All testings were performed with an iPhone 8 (16B91) portrait mode. \
 Above screenshots were produced on a MacBookPro OS Catalina.
 
 # References 
 
-1. Course #3 Swift Design and Development exercise, re-implemented by Chi T. Yeung, June 20, 2020
+1. Course #3 Swift Design and Development exercise, re-implemented by Chi T. Yeung, June 20, 2020 \
 https://github.com/yeuchi/SwiftDesignDev
 
 
